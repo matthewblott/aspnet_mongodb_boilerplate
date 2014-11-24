@@ -1,0 +1,8 @@
+# start kestrel
+k kestrel
+
+# start mongo
+mongod --dbpath ~/Dev/mongoDB/data/db --httpinterface --rest
+
+# start watchify
+watchify -t [ hbsfy -e html ] app-dev.js -o app.js -d -v

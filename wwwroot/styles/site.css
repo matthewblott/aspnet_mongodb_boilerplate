@@ -1,0 +1,49 @@
+body {
+  background-color: #272822;
+  font-family: monaco;
+  color: white;
+}
+
+h1 {
+  color: #f92672;
+}
+
+h2 {
+  #66d9ef;
+}
+
+h3 {
+  color: #a6e22e;
+}
+
+h4 {
+  color: #fd971f;
+}
+
+a {
+  color: #a6e22e;
+  text-decoration: none;
+}
+
+button {
+  c/olor: #fd971f;
+}
+
+input, button {
+  border-radius: 5px;
+  border: none;
+  padding: 5px;
+  margin: 5px;
+  font-size: 12pt;
+}
+
+button {
+  background: #f92672;
+  color: white;
+  font-size: 12pt;
+}
+
+button:hover {
+  color: #f92672;
+  background: white;
+}

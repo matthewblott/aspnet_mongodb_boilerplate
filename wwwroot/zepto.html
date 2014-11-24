@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Zepto</title>
+  <link rel="stylesheet" href="styles/site.css" />
+</head>
+<body>
+  <div class="div" id="div">some div</div>
+  <script src="//zeptojs.com/zepto.js"></script>
+  <script>
+
+    (function (){
+
+      $('.div').change(function (){
+        alert('change');
+      });
+
+    })();
+
+  </script>
+</body>
+</html>

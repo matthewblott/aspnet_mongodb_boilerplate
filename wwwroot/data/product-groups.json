@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Widget",
+    "description": "A widget"
+  },
+  {
+    "id": 2,
+    "name": "Thing",
+    "description": "A thing"
+  },
+  {
+    "id": 3
+    "name": "Something",
+    "description": "Someting else"
+  }
+]

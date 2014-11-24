@@ -1,0 +1,31 @@
+<h1>Users</h1>
+<table>
+  <thead>
+    <tr>
+      <th>
+        Id      
+      </th>
+      <th>
+        First Name
+      </th>
+      <th>
+        Last Name
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    {{#each users}}
+    <tr>
+      <td>
+        <a href="#users/{{_id}}">{{_id}}</a>
+      </td>
+      <td>
+        {{firstName}}          
+      </td>
+      <td>
+        {{lastName}} 
+      </td>
+    </tr>
+    {{/each}}
+  </tbody>
+</table>
