@@ -1,0 +1,8 @@
+*.sln*
+*.kproj*
+*.suo*
+store.sublime*
+
+obj
+bin
+
