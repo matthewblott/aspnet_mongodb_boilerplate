@@ -1,3 +1,5 @@
+<h1>Products</h1>
+
 <table>
   <thead>
     <tr>
@@ -13,16 +15,19 @@
     </tr>
   </thead>
   <tbody>
+    {{#each products}}
     <tr>
       <td>
-
+        <a href="#products/{{_id}}">{{_id}}</a>
       </td>
       <td>
-
+        {{name}}          
       </td>
       <td>
-        
+        {{description}} 
       </td>
     </tr>
+    {{/each}}
   </tbody>
+
 </table>

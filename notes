@@ -4,5 +4,16 @@ k kestrel
 # start mongo
 mongod --dbpath ~/Dev/mongoDB/data/db --httpinterface --rest
 
+
+# navigate to the scripts folder
+cd wwwroot/scripts
+
 # start watchify
 watchify -t [ hbsfy -e html ] app-dev.js -o app.js -d -v
+
+
+# scratchsheet
+Object.keys(models).forEach(function (key) {
+  var value = models[key];
+  console.log(value.prototype);
+});

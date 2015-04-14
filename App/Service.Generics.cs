@@ -8,7 +8,7 @@ using MongoDB.Driver.Linq;
 
 public partial class Service<T> where T : IDocument
 {
-  public MongoDatabase db;
+  MongoDatabase db;
   MongoCollection<T> collection;
 
   public Service()

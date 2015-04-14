@@ -1,0 +1,447 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Get",
+				"GetDatabase"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"group",
+				"groupTemplate"
+			],
+			[
+				"view",
+				"viewName"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"vi",
+				"View"
+			],
+			[
+				"PROD",
+				"product"
+			],
+			[
+				"Product",
+				"products"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"std",
+				"stdout"
+			],
+			[
+				"U",
+				"User"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"id",
+				"idAttribute"
+			],
+			[
+				"pu",
+				"Put"
+			],
+			[
+				"in",
+				"Insert"
+			],
+			[
+				"G",
+				"GetId()	int GetId()"
+			],
+			[
+				"Ser",
+				"Service	Service"
+			],
+			[
+				"op",
+				"Open(	FileStream Open(string path, FileMode mode)"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"w",
+				"WriteLine"
+			],
+			[
+				"conn",
+				"connStr"
+			],
+			[
+				"c",
+				"MongoClient"
+			],
+			[
+				"Mo",
+				"MongoDB"
+			],
+			[
+				"a",
+				"AspNet"
+			],
+			[
+				"con",
+				"Console	Console"
+			],
+			[
+				"app",
+				"ApplicationBuilder	ApplicationBuilder"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"quick",
+				"Quick File Move: Move Current File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Matt/Dev/Sites/Store",
+		"/Users/Matt/Dev/Sites/Store/wwwroot",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/node_modules"
+	],
+	"file_history":
+	[
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/models.js",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/zepto.html",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/app.js",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/app-dev.js",
+		"/Users/Matt/Dev/Sites/Store/notes",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/routes.js",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/gulpfile.js",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/index.html",
+		"/Users/Matt/Dev/Sites/Store/project.json",
+		"/Users/Matt/Dev/Sites/Store/App/Service.Generics.cs",
+		"/Users/Matt/Dev/Sites/Store/README.md",
+		"/Users/Matt/Dev/Sites/FM/FMWebSkin/products.html",
+		"/Users/Matt/Dev/Sites/FM/FMWebSkin/app.sublime-project",
+		"/Users/Matt/Dev/Sites/FM/FMWebSkin/order.html",
+		"/Users/Matt/Dev/Sites/FM/FMWebSkin/styles/site.css",
+		"/Users/Matt/Dev/Sites/FM/FMWebSkin/table.html",
+		"/Users/Matt/Dev/Sites/FM/FMWebSkin/user.html",
+		"/Users/Matt/Dev/Sites/FM/FMWebSkin/images/telephone-number.png",
+		"/Users/Matt/Dev/Sites/FM/FMWebSkin/styles/carousel.css",
+		"/Users/Matt/Dev/Sites/FM/FMWebSkin/index.html",
+		"/Users/Matt/Dev/Sites/FM/FMWebSkin/styles/Site.Extra.css",
+		"/Users/Matt/Dev/Sites/FM/FMWebSkin/styles/Site-bak.css",
+		"/Users/Matt/Dev/Sites/FM/FMWebSkin/products2.html",
+		"/Users/Matt/Dev/Sites/FM/FMWebSkin/navbar.html",
+		"/Users/Matt/Dev/Sites/FM/FMWebSkin/gallery.html",
+		"/Users/Matt/Dev/Sites/FM/FMWebSkin/grid.html",
+		"/Users/Matt/Dev/rubymotion/HelloWorld/Rakefile",
+		"/Users/Matt/Dev/rubymotion/helloworld/app/main_activity.rb",
+		"/Users/Matt/Dev/rubymotion/helloworld/Rakefile",
+		"/Users/Matt/Dev/rubymotion/helloworld/resources/values/strings.xml",
+		"/Users/Matt/Dev/rubymotion/helloworld/resources/layout/activity_my.xml",
+		"/Users/Matt/Dev/rubymotion/helloworld/spec/main_spec.rb",
+		"/Users/Matt/Dev/rubymotion/helloworld/build/Development-19/Hello.apk",
+		"/Users/Matt/Dev/rubymotion/helloworld/resources/activity_my.xml",
+		"/Users/Matt/Dev/rubymotion/helloworld/build/Development-19/AndroidManifest.xml",
+		"/Users/Matt/Dev/rubymotion/helloworld/app.sublime-project",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/_/ajax-post.js",
+		"/Users/Matt/Dev/Sites/TestPages/test-pages.sublime-project",
+		"/Users/Matt/Dev/Sites/FM/FMWebStationery/Controls/Products.ascx.cs",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/views.js",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/live.js",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/views/group.html",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/views/customer.html",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/views/groups.html",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/views/product.html",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/views/products.html",
+		"/Users/Matt/Dev/Sites/Store/Controllers/Controllers.cs",
+		"/Users/Matt/Dev/Sites/Store/Documents/Product.cs",
+		"/Users/Matt/Dev/Sites/Store/Controllers/AppController.cs",
+		"/Users/Matt/Dev/Sites/Store/Controllers/HomeController.cs",
+		"/Users/Matt/Dev/Sites/Store/Controllers/UserController.cs",
+		"/Users/Matt/Dev/Sites/Store/Controllers/ProductController.cs",
+		"/Users/Matt/Dev/Sites/Store/store.sublime-project",
+		"/Users/Matt/Dev/Sites/Store/.gitignore",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/data/customer.json",
+		"/Users/Matt/Dev/Sites/Store/.jsbeautifyrc",
+		"/Users/Matt/Dev/Sites/Store/start.sh",
+		"/Users/Matt/Dev/Sites/Store/Documents/UserGroup.cs",
+		"/Users/Matt/Dev/Sites/Store/Documents/Group.cs",
+		"/Users/Matt/Dev/Sites/Store/Documents/Customer.cs",
+		"/Users/Matt/Dev/Sites/Store/Documents/ProductGroup.cs",
+		"/Users/Matt/Dev/Sites/Store/Documents/User.cs",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/views/user.html",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/views/users.html",
+		"/Users/Matt/Dev/Sites/Store/_",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/users.hbs",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/views/users.html",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/_models.js",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/node_modules/zepto/package.json",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/node_modules/handlebars/runtime.js",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/node_modules/handlebars/package.json",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/db.js",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/main.js",
+		"/Users/Matt/Dev/Sites/FM/index.html",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/test.html",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/main.js.old",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/styles/site.css",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/services.js",
+		"/Users/Matt/Dev/Sites/Store/store.sublime.workspace",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/views/user.html",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/_/data.js",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/data.js",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/models.js.old",
+		"/Users/Matt/Dev/Sites/Store/App/Helper.cs",
+		"/Users/Matt/Dev/Sites/Store/UserController.cs",
+		"/Users/Matt/Dev/Sites/Store/Startup.cs",
+		"/Users/Matt/Dev/Sites/Store/HomeController.cs",
+		"/Users/Matt/Dev/Sites/Store/code/Helper.cs",
+		"/Users/Matt/Dev/Sites/Store/code/ProductService.cs",
+		"/Users/Matt/Dev/Sites/Store/code/Service.cs",
+		"/Users/Matt/Dev/Sites/Store/UserService.cs",
+		"/Users/Matt/Dev/Sites/Store/code/Product.cs",
+		"/Users/Matt/Dev/Sites/Store/User.cs",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/scripts/data.js",
+		"/Users/Matt/Dev/Sites/Store/wwwroot/scripts/data/customer.json",
+		"/Users/Matt/Dev/Sites/Store/ValuesController.cs",
+		"/Users/Matt/Dev/Python/examples/imaging.py",
+		"/Users/Matt/Dev/Python/examples/get_filtered_file_list.py",
+		"/Users/Matt/Dev/Python/examples/ftp.py",
+		"/Users/Matt/Dev/Python/examples/files/file1.txt",
+		"/Users/Matt/Dev/Python/examples/files/file2.txt",
+		"/Users/Matt/Dev/Python/examples/get_file_list.py",
+		"/Users/Matt/Dev/Python/examples/thumbnail.py",
+		"/Users/Matt/Dev/mongoDB/mono/App.cs",
+		"/Users/Matt/Dev/mongoDB/mono/mongodb.js",
+		"/Users/Matt/Dev/mongoDB/mono/main.js",
+		"/Users/Matt/Dev/mongoDB/mono/MyLib.cs",
+		"/MyLib.cs",
+		"/Users/Matt/Dev/Sites/SimpleMongo/Program.cs",
+		"/Users/Matt/Dev/Sites/SimpleMongo/project.json",
+		"/Users/Matt/Dev/Sites/Yo/YoApi/Startup.cs",
+		"/Users/Matt/Dev/Sites/Yo/YoApi/MoviesController.cs",
+		"/Users/Matt/Dev/Sites/Yo/YoApi/ValuesController.cs",
+		"/Users/Matt/Dev/Sites/Yo/YoApi/project.json",
+		"/Users/Matt/Dev/Sites/Yo/YoApi/Views/Home/Index.cshtml",
+		"/Users/Matt/Dev/Sites/Yo/YoApi/Movie.cs",
+		"/Users/Matt/Dev/Sites/Yo/YoApi/Views/Home/MessageModel.cs",
+		"/Users/Matt/Dev/Sites/YoWeb/bin/Debug/YoWeb.0.1-alpha-SNAPSHOT.nupkg",
+		"/Users/Matt/Dev/Sites/Yo/YoWeb/project.json",
+		"/Users/Matt/Dev/Sites/Yo/Startup.cs",
+		"/Users/Matt/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Matt/Dev/Sites/Yo/YoWeb/Startup.cs",
+		"/Users/Matt/Library/Application Support/Sublime Text 3/Packages/User/C#.sublime-settings",
+		"/Users/Matt/Dev/Sites/Yo/YoWeb/YoWeb.sublime-project",
+		"/Users/Matt/Dev/Sites/Yo/YoWeb/bin/Debug/YoWeb.1.0.0.symbols.nupkg",
+		"/Users/Matt/Dev/Sites/Yo/YoWeb/bin/Debug/aspnetcore50/YoWeb.xml",
+		"/Users/Matt/Dev/Sites/Yo/YoWeb/bin/Debug/net45/YoWeb.xml",
+		"/Users/Matt/Dev/Sites/Yo/YoWeb/NuGet.config"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$",
+			"aria",
+			">\n",
+			"users",
+			"document",
+			"Debug",
+			"using Microsoft.AspNet.Builder;\n\nnamespace KWebStartup\n{\n    public class Startup\n    {\n        public void Configure(IBuilder app)\n        {\n            app.UseStaticFiles();\n            app.UseWelcomePage();\n\n        }\n    }\n}",
+			"minif",
+			"f8",
+			"tab",
+			"pane",
+			"next_view"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
